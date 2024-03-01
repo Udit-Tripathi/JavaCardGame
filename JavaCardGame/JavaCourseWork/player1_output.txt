@@ -1,0 +1,29 @@
+player 1 1 initial hand: 1 5 1 5
+player 1 player 1 deck: 1 5 8 4
+player 1 draws a 1 from deck 1
+player 1 discards a 5 to player 2
+player 1 current hand is 1 5 1 1
+player 1 draws a 5 from deck 1
+player 1 discards a 5 to player 2
+player 1 current hand is 1 5 1 1
+player 1 draws a 8 from deck 1
+player 1 discards a 8 to player 2
+player 1 current hand is 1 5 1 1
+player 1 draws a 4 from deck 1
+player 1 discards a 5 to player 2
+player 1 current hand is 1 1 1 4
+player 1 draws a 8 from deck 1
+player 1 discards a 4 to player 2
+player 1 current hand is 1 1 1 8
+player 1 draws a 8 from deck 1
+player 1 discards a 8 to player 2
+player 1 current hand is 1 1 1 8
+player 1 draws a 5 from deck 1
+player 1 discards a 8 to player 2
+player 1 current hand is 1 1 1 5
+player 1 draws a 1 from deck 1
+player 1 discards a 5 to player 2
+player 1 current hand is 1 1 1 1
+player 1 wins
+player 1 exits
+player 1 final hand:1 1 1 1

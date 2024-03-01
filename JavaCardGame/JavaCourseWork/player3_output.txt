@@ -1,0 +1,26 @@
+player 3 3 initial hand: 3 7 3 7
+player 3 player 3 deck: 3 7 6 2
+player 3 draws a 3 from deck 3
+player 3 discards a 7 to player 4
+player 3 current hand is 3 3 7 3
+player 3 draws a 7 from deck 3
+player 3 discards a 7 to player 4
+player 3 current hand is 3 3 3 7
+player 3 draws a 6 from deck 3
+player 3 discards a 6 to player 4
+player 3 current hand is 3 3 3 7
+player 3 draws a 2 from deck 3
+player 3 discards a 2 to player 4
+player 3 current hand is 3 3 3 7
+player 3 draws a 6 from deck 3
+player 3 discards a 7 to player 4
+player 3 current hand is 3 3 3 6
+player 3 draws a 6 from deck 3
+player 3 discards a 6 to player 4
+player 3 current hand is 3 3 3 6
+player 3 draws a 6 from deck 3
+player 3 discards a 6 to player 4
+player 3 current hand is 3 3 3 6
+player 1 has informed player 3 that player 1 has won
+player 3 exits
+player 3 hand:3 3 3 6
